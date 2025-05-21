@@ -12,6 +12,9 @@ Shows a snippet of practice using statistical methods on a project for one of my
 
 -V5SiameseNetworks Project-
 
-Shows a project I used contrastive learning on emotion recognition
+Shows a project I used contrastive learning on facial emotion recognition by expanding another emotion.
+The CUS_754_Project_Report gives more information on the results and the method used.
 
--SQL
+-SQL and Python Usage-
+
+"Fields.py" "book_db_access.py" "main.py" "checkout_db_access.py" "Book.py" "Checkout.py" "db_connect.py" are all files from a project I was assigned to aid in using a library database.
